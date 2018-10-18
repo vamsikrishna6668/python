@@ -1,0 +1,1 @@
+# abstraction is a process of showing the neccessary data and hiding the unneccessary data.
